@@ -341,6 +341,7 @@ const Groups = () => {
                             href="https://min.io/docs/minio/linux/administration/identity-access-management/minio-group-management.html?ref=con"
                             target="_blank"
                             rel="noopener"
+                            style={{ color: "#ff00a0" }}
                           >
                             documentation
                           </a>

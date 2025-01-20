@@ -390,6 +390,7 @@ const ListUsers = () => {
                           href="https://min.io/docs/minio/kubernetes/upstream/administration/identity-access-management/minio-user-management.html?ref=con"
                           target="_blank"
                           rel="noopener"
+                          style={{ color: "#ff00a0" }}
                         >
                           documentation
                         </a>

@@ -308,6 +308,10 @@ export const generateOverrideTheme = (
           dropHoverSelectedColor: "#e4008e",
           noOptionsBar: "#1c1c1f",
         },
+        link: {
+          color: "#ff00a0",
+          hover: "#e4008e",
+        },
       },
     };
   } catch (e) {
