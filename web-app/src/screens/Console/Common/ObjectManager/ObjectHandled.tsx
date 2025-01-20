@@ -98,7 +98,7 @@ const ObjectInformation = styled.div(({ theme }) => ({
     color: get(theme, "signalColors.good", "#4CCB92"),
   },
   "& .inProgress": {
-    color: get(theme, "signalColors.main", "#2781B0"),
+    color: get(theme, "signalColors.main", "#ff00a0"),
   },
   "& .completedError": {
     color: get(theme, "signalColors.danger", "#C83B51"),

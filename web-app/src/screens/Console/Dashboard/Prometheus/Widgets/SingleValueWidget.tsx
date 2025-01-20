@@ -53,7 +53,7 @@ const SingleValueWidgetMain = styled.div(({ theme }) => ({
   "& .metric": {
     fontSize: 60,
     lineHeight: 1,
-    color: get(theme, "signalColors.main", "#07193E"),
+    color: get(theme, "signalColors.main", "#f9fafb"),
     fontWeight: 700,
   },
   "& .titleElement": {

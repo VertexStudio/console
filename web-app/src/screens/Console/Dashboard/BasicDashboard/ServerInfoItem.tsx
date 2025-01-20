@@ -46,7 +46,7 @@ const ServerStatItemMain = styled.div(({ theme }) => ({
     },
     "& .stat-value": {
       fontSize: "18px",
-      color: get(theme, "signalColors.main", "#07193E"),
+      color: get(theme, "signalColors.main", "#f9fafb"),
       display: "flex",
       fontWeight: 500,
       overflow: "hidden",

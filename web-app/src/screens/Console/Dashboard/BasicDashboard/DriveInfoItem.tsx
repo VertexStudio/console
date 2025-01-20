@@ -78,7 +78,7 @@ const DriveInfoItem = ({ drive }: ICardProps) => {
         },
         "& .info-value": {
           fontSize: 18,
-          color: get(theme, "signalColors.main", "#07193E"),
+          color: get(theme, "signalColors.main", "#f9fafb"),
           display: "flex",
           fontWeight: 500,
           overflow: "hidden",

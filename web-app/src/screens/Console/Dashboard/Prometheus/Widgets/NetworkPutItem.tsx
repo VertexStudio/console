@@ -29,7 +29,7 @@ const NetworkPutBase = styled.div(({ theme }) => ({
     "& .min-icon": {
       height: 15,
       width: 15,
-      fill: get(theme, "signalColors.info", "#2781B0"),
+      fill: get(theme, "signalColors.info", "#ff00a0"),
     },
 
     "& .putText": {

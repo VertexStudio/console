@@ -47,7 +47,7 @@ const PieChartMain = styled.div(({ theme }) => ({
   },
   "& .pieChartLabel": {
     fontSize: 60,
-    color: get(theme, "signalColors.main", "#07193E"),
+    color: get(theme, "signalColors.main", "#f9fafb"),
     fontWeight: "bold",
     width: "100%",
     "& .unitText": {

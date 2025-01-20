@@ -43,6 +43,7 @@ export const generateOverrideTheme = (
       logoLabelColor: "#f9fafb",
       logoLabelInverse: "#FFF",
       loaderColor: "#ff00a0",
+      linkColor: "#ff00a0",
       boxBackground: "#1c1c1f",
       mutedText: "#9ca3af",
       secondaryText: "#e5e7eb",

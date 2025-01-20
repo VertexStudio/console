@@ -30,7 +30,7 @@ const ExpandGraphLink = ({ panelItem }: { panelItem: IDashboardPanel }) => {
         alignItems: "right",
         gap: "10px",
         "& .link-text": {
-          color: "#2781B0",
+          color: "#ff00a0",
           fontSize: "12px",
           fontWeight: 600,
         },

@@ -105,7 +105,7 @@ export const typesSelection = {
     },
   },
   lambdaNotifTitle: {
-    color: "#07193E",
+    color: "#f9fafb",
     fontSize: 16,
     fontFamily: "Inter,sans-serif",
     paddingLeft: 18,

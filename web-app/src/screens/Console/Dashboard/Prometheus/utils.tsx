@@ -129,7 +129,7 @@ export const panelsConfiguration: IDashboardPanel[] = [
     widgetConfiguration: [
       {
         dataKey: "a",
-        color: "#2781B0",
+        color: "#ff00a0",
         background: {
           fill: "#EEF1F4",
         },
