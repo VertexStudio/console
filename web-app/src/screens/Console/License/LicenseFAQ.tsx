@@ -19,7 +19,7 @@ import styled from "styled-components";
 import get from "lodash/get";
 
 const LinkElement = styled.a(({ theme }) => ({
-  color: get(theme, "signalColors.info", "#2781B0"),
+  color: get(theme, "signalColors.info", "#ff00a0"),
   fontWeight: 600,
 }));
 

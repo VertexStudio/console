@@ -30,7 +30,7 @@ const ReportedUsageMain = styled.div(({ theme }) => ({
   padding: "10px",
   "& .unit-value": {
     fontSize: "50px",
-    color: get(theme, "signalColors.main", "#07193E"),
+    color: get(theme, "signalColors.main", "#f9fafb"),
   },
   "& .unit-type": {
     fontSize: "18px",

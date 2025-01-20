@@ -38,11 +38,11 @@ interface ISimpleWidget {
 
 const SimpleWidgetMain = styled.span(({ theme }) => ({
   display: "inline-flex",
-  color: get(theme, "signalColors.main", "#07193E"),
+  color: get(theme, "signalColors.main", "#f9fafb"),
   alignItems: "center",
   "& .icon": {
-    color: get(theme, "signalColors.main", "#07193E"),
-    fill: get(theme, "signalColors.main", "#07193E"),
+    color: get(theme, "signalColors.main", "#f9fafb"),
+    fill: get(theme, "signalColors.main", "#f9fafb"),
     marginRight: 5,
     marginLeft: 12,
   },

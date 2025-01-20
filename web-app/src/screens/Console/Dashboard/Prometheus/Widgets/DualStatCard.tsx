@@ -21,7 +21,7 @@ import { Box, breakPoints } from "mds";
 
 const DualSTCardContent = styled.div(({ theme }) => ({
   fontFamily: "Inter,sans-serif",
-  color: get(theme, "signalColors.main", "#07193E"),
+  color: get(theme, "signalColors.main", "#f9fafb"),
   maxWidth: "321px",
   display: "flex",
   marginLeft: "auto",

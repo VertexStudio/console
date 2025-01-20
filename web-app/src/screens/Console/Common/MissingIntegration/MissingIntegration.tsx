@@ -46,7 +46,12 @@ const MissingIntegration = ({
               This feature is not available.
               <br />
               Please configure{" "}
-              <a href={documentationLink} target="_blank" rel="noopener">
+              <a
+                href={documentationLink}
+                target="_blank"
+                rel="noopener"
+                style={{ color: "#ff00a0" }}
+              >
                 {entity}
               </a>{" "}
               first to use this feature.

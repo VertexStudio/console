@@ -26,7 +26,7 @@ const StatusCountBase = styled.div(({ theme }) => ({
   marginLeft: "auto",
   marginRight: "auto",
   cursor: "default",
-  color: get(theme, "signalColors.main", "#07193E"),
+  color: get(theme, "signalColors.main", "#f9fafb"),
   "& .mainBox": {
     flex: 1,
     display: "flex",

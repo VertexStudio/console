@@ -40,7 +40,7 @@ const IndicatorContainer = styled.div(({ theme }) => ({
     transitionDuration: "0.2s",
   },
   "&.newItem": {
-    color: get(theme, "signalColors.info", "#2781B0"),
+    color: get(theme, "signalColors.info", "#ff00a0"),
     "& svg": {
       width: 15,
       height: 15,

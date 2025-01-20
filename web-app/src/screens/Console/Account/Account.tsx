@@ -309,6 +309,7 @@ const Account = () => {
                     href="https://min.io/docs/minio/linux/administration/identity-access-management/minio-user-management.html?ref=con#id3"
                     target="_blank"
                     rel="noopener"
+                    style={{ color: "#ff00a0" }}
                   >
                     documentation
                   </a>

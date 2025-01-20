@@ -288,7 +288,7 @@ const LinearGraphWidget = ({
                           >
                             <stop
                               offset="0%"
-                              stopColor="#2781B0"
+                              stopColor="#ff00a0"
                               stopOpacity={1}
                             />
                             <stop

@@ -26,7 +26,7 @@ const SpecificVersionPill = ({ type }: ISpecificVersionPillProps) => {
 
   switch (type) {
     case "null":
-      bgColor = "#07193E";
+      bgColor = "#f9fafb";
       message = "NULL VERSION";
       break;
     case "deleted":

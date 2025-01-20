@@ -21,7 +21,7 @@ import { Box, breakPoints, Loader, Tooltip } from "mds";
 
 const StatCardMain = styled.div(({ theme }) => ({
   fontFamily: "Inter,sans-serif",
-  color: get(theme, "signalColors.main", "#07193E"),
+  color: get(theme, "signalColors.main", "#f9fafb"),
   maxWidth: "300px",
   display: "flex",
   marginLeft: "auto",

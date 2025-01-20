@@ -41,7 +41,7 @@ const CommonCardItem = styled.div(({ theme }) => ({
   "& .metricText": {
     fontSize: 70,
     lineHeight: 1.1,
-    color: get(theme, "signalColors.main", "#07193E"),
+    color: get(theme, "signalColors.main", "#f9fafb"),
     fontWeight: "bold",
   },
   "& .unitText": {

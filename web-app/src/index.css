@@ -24,3 +24,7 @@ input.removeArrows[type="number"],
 .removeArrows input[type="number"] {
   -moz-appearance: textfield;
 }
+
+a {
+  color: #ff00a0;
+}

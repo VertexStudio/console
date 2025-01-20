@@ -28,16 +28,9 @@ interface IStyleHandler {
 }
 
 const StyleHandler = ({ children }: IStyleHandler) => {
-  const colorVariants = useSelector(
-    (state: AppState) => state.system.overrideStyles,
-  );
   const darkMode = useSelector((state: AppState) => state.system.darkMode);
 
-  let thm = undefined;
-
-  if (colorVariants) {
-    thm = generateOverrideTheme(colorVariants);
-  }
+  const thm = generateOverrideTheme({});
 
   return (
     <Fragment>

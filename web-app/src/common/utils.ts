@@ -484,7 +484,7 @@ export const capacityColors = (usedSpace: number, maxSpace: number) => {
     return "#FFAB0F";
   }
 
-  return "#07193E";
+  return "#f9fafb";
 };
 
 export const getClientOS = (): string => {
